@@ -39,10 +39,10 @@ I am a Full-stack Web Developer who love writing and thinking about code.
 ***
 
 <a href="https://github.com/Tylder/angularfirestore-deep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tylder&repo=angularfirestore-deep&theme=onedark" height="140px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tylder&repo=angularfirestore-deep&theme=onedark"/>
 </a>
 <a href="https://github.com/tylder/OMPEval_py_wrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylder&repo=OMPEval_py_wrapper&theme=onedark" height="140px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylder&repo=OMPEval_py_wrapper&theme=onedark"/>
 </a>
 
 
@@ -51,5 +51,5 @@ I am a Full-stack Web Developer who love writing and thinking about code.
 [comment]: <> (### Stats)
 <div style="height:4px"></div> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylder&langs_count=6&layout=compact&hide=javascript,html&theme=onedark" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=tylder&count_private=true&hide=issues&theme=onedark" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylder&langs_count=6&layout=compact&hide=javascript,html&theme=onedark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tylder&count_private=true&hide=issues&theme=onedark"/>

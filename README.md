@@ -38,18 +38,8 @@ I am a Full-stack Web Developer who love writing and thinking about code.
 
 ***
 
-<a href="https://github.com/Tylder/angularfirestore-deep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tylder&repo=angularfirestore-deep&theme=onedark"/>
-</a>
-<a href="https://github.com/tylder/OMPEval_py_wrapper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylder&repo=OMPEval_py_wrapper&theme=onedark"/>
-</a>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Tylder&repo=angularfirestore-deep&theme=onedark)](https://github.com/Tylder/angularfirestore-deep)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=tylder&repo=OMPEval_py_wrapper&theme=onedark)](https://github.com/tylder/OMPEval_py_wrapper)
 
-
-[comment]: <> (***)
-
-[comment]: <> (### Stats)
-<div style="height:4px"></div> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylder&langs_count=6&layout=compact&hide=javascript,html&theme=onedark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=tylder&count_private=true&hide=issues&theme=onedark"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tylder&langs_count=6&layout=compact&hide=javascript,html&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=tylder&count_private=true&hide=issues&include_all_commits=true&theme=onedark)

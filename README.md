@@ -6,23 +6,29 @@ I am a Full-stack Web Developer who love writing and thinking about code.
 
 📫 Reach me at: [![](https://img.shields.io/badge/lofgrendaniel87@gmail.com-Gmail-D14836?style=flat&logo=gmail&logoColor=white) ](mailto:lofgrendaniel87@gmail.com)
 
-### Skills:
+### Skills 🦾
 
 - Front End Web Development with Angular
+- Back End Web Development with, FastAPI, 
 - Modern C++
 - Machine learning with Tensorflow and Keras
-- API with FastAPI
 - Dockerizing Apps
+
+### Passions 👾
+
+- Machine Learning
+- Game Development
+- Solving and thinking about problems 
 
 ### Proof of concept 3d Showcase site:
 [![https://tylder.github.io/portfolio3d/](3d_portfolio.jpg)](https://tylder.github.io/portfolio3d/)
 
 [https://tylder.github.io/portfolio3d/](https://tylder.github.io/portfolio3d/)
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### Most often used Technologies & Tools 🔧 
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -32,9 +38,9 @@ I am a Full-stack Web Developer who love writing and thinking about code.
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white)
 
 ***
 

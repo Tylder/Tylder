@@ -10,6 +10,7 @@ I am a Full-stack Web Developer who love writing and thinking about code.
 
 - Front End Web Development with Angular and React
 - Back End Web Development with Node.js and Python (FastAPI) 
+- Google Firebase
 - Modern C++
 - Machine learning with Tensorflow and Keras
 - Dockerizing Apps

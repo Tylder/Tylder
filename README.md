@@ -4,8 +4,6 @@ I am a Full-stack Web Developer who love writing and thinking about code.
 
 - 🔭 I’m currently working on delivering and maintaining websites for clients as a freelance web developer.
 
-📫 Reach me at: [![](https://img.shields.io/badge/lofgrendaniel87@gmail.com-Gmail-D14836?style=flat&logo=gmail&logoColor=white) ](mailto:lofgrendaniel87@gmail.com)
-
 ### Skills 🦾
 
 - Front End Web Development with Angular and React

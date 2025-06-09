@@ -1,4 +1,4 @@
-### Hi there, I am Daniel Lofgren <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I am Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a Full-stack Web Developer who love writing and thinking about code. 
 

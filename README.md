@@ -1,50 +1,51 @@
-### Hi there, I am Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Daniel Löfgren
 
-I am a Full-stack Web Developer who love writing and thinking about code. 
+Backend/platform systems engineer focused on integration-heavy architecture, distributed workflows, LLM infrastructure,
+crypto/payment systems, and performance-conscious tooling.
 
-- 🔭 I’m currently working on delivering and maintaining websites for clients as a freelance web developer.
+I build backend systems and developer tooling with a strong bias toward clear system boundaries, reliable execution,
+observability, and maintainable architecture. My strongest public-facing work sits across TypeScript platform systems,
+orchestration frameworks, payment infrastructure, and systems-oriented engineering with real integration and runtime
+complexity.
 
-### Skills 🦾
+## Current focus
 
-- Front End Web Development with Angular and React
-- Back End Web Development with Node.js and Python (FastAPI) 
-- Google Firebase
-- Modern C++
-- Machine learning with Tensorflow and Keras
-- Dockerizing Apps
+- Backend and platform systems in TypeScript
+- LLM infrastructure, orchestration, and execution workflows
+- Crypto/payment infrastructure and async reliability
+- Performance-conscious tooling and systems design
 
-### Passions 👾
+## Selected work
 
-- Machine Learning
-- Game Development
-- Solving and thinking about problems 
+Best places to start: Loom for orchestration/runtime design, LaunchQuay Platform for crypto/payment infrastructure, and
+Conduit AI for provider and integration complexity.
 
-### Proof of concept 3d Showcase site:
-[![https://tylder.github.io/portfolio3d/](3d_portfolio.jpg)](https://tylder.github.io/portfolio3d/)
+### Loom
 
-[https://tylder.github.io/portfolio3d/](https://tylder.github.io/portfolio3d/)
+Extendable orchestration framework for specialized coding agents. Proves durable workflows, runtime architecture,
+extensibility, and observability.
 
-### Most often used Technologies & Tools 🔧 
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### LaunchQuay Platform
 
-![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+Blockchain payment infrastructure focused on non-custodial flows, worker orchestration, reconciliation, and async
+reliability. Proves crypto/payment systems depth and reliability-focused backend design.
 
+### Conduit AI
 
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white)
+TypeScript execution framework for working across many AI providers through a common layer. Proves provider
+integrations, auth complexity, monorepo boundaries, and execution-layer design.
 
-***
+### C++ systems work
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Tylder&repo=firestore-extended&theme=onedark)](https://github.com/Tylder/firestore-extended)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=tylder&repo=OMPEval_py_wrapper&theme=onedark)](https://github.com/tylder/OMPEval_py_wrapper)
+Large-scale C++ systems work focused on multithreading, profiling, distributed workers, and performance-sensitive
+automation. Proves systems depth, concurrency, and long-term technical ownership.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tylder&langs_count=6&layout=compact&hide=javascript,html&theme=onedark)
-![](https://github-readme-stats.vercel.app/api?username=tylder&count_private=true&hide=issues&include_all_commits=true&theme=onedark)
+## Public and private work
+
+This profile highlights selected public artifacts. Some professional and freelance work is private or NDA-constrained,
+so the public material here focuses on representative projects and privacy-safe summaries of the systems I build.
+
+## Links
+
+- GitHub: https://github.com/tylder
+- Email: daniel.lofgren87@gmail.com

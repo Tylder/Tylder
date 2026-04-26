@@ -36,8 +36,9 @@ TypeScript execution framework for working across many AI providers through a co
 integrations, auth complexity, monorepo boundaries, and execution-layer design.
 
 ### Texere
+[github.com/Tylder/Texere](https://github.com/Tylder/Texere)
 
-[Persistent knowledge-graph memory system for AI agents](https://github.com/Tylder/Texere), exposed as an MCP server and
+Persistent knowledge-graph memory system for AI agents, exposed as an MCP server and
 TypeScript library. Proves LLM infrastructure, durable agent context, and local-first systems design.
 
 ## Public and private work

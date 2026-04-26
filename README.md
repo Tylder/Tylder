@@ -17,8 +17,8 @@ complexity.
 
 ## Selected work
 
-Best places to start: Loom for orchestration/runtime design, LaunchQuay Platform for crypto/payment infrastructure, and
-Conduit AI for provider and integration complexity.
+Best places to start: Loom for orchestration/runtime design, LaunchQuay Platform for crypto/payment infrastructure,
+Conduit AI for provider and integration complexity, and Texere for agent memory infrastructure.
 
 ### Loom
 
@@ -35,14 +35,15 @@ reliability. Proves crypto/payment systems depth and reliability-focused backend
 TypeScript execution framework for working across many AI providers through a common layer. Proves provider
 integrations, auth complexity, monorepo boundaries, and execution-layer design.
 
-### C++ systems work
+### Texere
 
-Large-scale C++ systems work focused on multithreading, profiling, distributed workers, and performance-sensitive
-automation. Proves systems depth, concurrency, and long-term technical ownership.
+[Persistent knowledge-graph memory system for AI agents](https://github.com/Tylder/Texere), exposed as an MCP server and
+TypeScript library. Proves LLM infrastructure, durable agent context, and local-first systems design.
 
 ## Public and private work
 
 This profile highlights selected public artifacts. Some professional and freelance work is private or NDA-constrained,
+including C++ systems work around multithreading, profiling, distributed workers, and performance-sensitive automation,
 so the public material here focuses on representative projects and privacy-safe summaries of the systems I build.
 
 ## Links
